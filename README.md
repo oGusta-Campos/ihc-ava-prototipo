@@ -4,8 +4,6 @@ O protótipo transforma as sete telas da Fase 4 em fluxos clicáveis para consul
 
 Repositório público do código: https://github.com/oGusta-Campos/ihc-ava-prototipo
 
-Link hospedado privado: https://ihc-ava-fase5-gustavo.gustamorgan.chatgpt.site
-
 ## Uso local
 
 Extraia o pacote completo. Abra `index.html` no Edge, Chrome ou outro navegador moderno. Mantenha `app.js`, `styles.css` e `Roteiro_Fase5.pdf` na mesma pasta do HTML. Não é necessária uma conta do AVA ou conexão com o Moodle.
