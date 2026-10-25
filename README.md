@@ -1,4 +1,4 @@
-# Fase 5 - Protótipo interativo V1
+# Protótipo interativo AVA IF Goiano - Versão 2
 
 O protótipo transforma as sete telas da Fase 4 em fluxos clicáveis para consulta de cursos/prazos, entrega e substituição de PDF, calendário e início de questionário.
 
@@ -33,3 +33,13 @@ Use **Entrega existente** para preparar T5 quando T4 não tiver sido concluída.
 Os dados são fictícios e a data de referência é 13/10/2026. O primeiro vencimento é 14/10/2026 às 23h59. Envios e notas são simulados. O estado e os resultados de teste ficam no navegador, sem sincronização entre dispositivos. O conteúdo de um PDF enviado fica disponível na aba atual; após recarregar, a visualização pode apresentar um PDF de demonstração com o nome registrado. Não utilize credenciais ou documentos reais.
 
 Não foram coletados resultados de estudantes. O registro começa vazio.
+
+## Fase 6 - Versão 2 e relatório de simulação
+
+O protótipo foi atualizado para a V2 com três ajustes: tarefas sem prazo aparecem no topo da agenda e ganham um atalho em “Meus cursos”; esse atalho limpa filtros anteriores; o rótulo “Período” permanece visível em telas pequenas; a ação de troca de arquivo usa o texto “Substituir arquivo”.
+
+- Relatório: [Relatório da Fase 6 (dados simulados)](Relatorio_Fase6_Testes_Simulados.pdf)
+- Planilha: [Dados simulados por perfil e tarefa](Fase6_Dados_Simulados.csv)
+- Protótipo: [abrir a V2 no Vercel](https://ihc-ava-prototipo.vercel.app/#courses)
+
+**Atenção:** os cinco perfis, métricas, tempos e comentários do relatório/CSV são inteiramente fictícios, conforme simulação solicitada. Não houve sessões com alunos. Não apresente esses valores como coleta empírica; substitua-os por resultados reais caso o docente exija testes com participantes.
